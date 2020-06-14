@@ -23,7 +23,6 @@ python -m pytest -vv
 ```
 
 ### Для установки на Heroku
-добавить buildpacks (java нужна для работы библиотеки h2o):
 - heroku/python
 - https://github.com/heroku/heroku-buildpack-jvm-common.git
 
